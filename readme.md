@@ -1,4 +1,4 @@
-# is-raining (CLI)
+# is-raining
 
 > Check if it's raining in any city (CLI)
 

@@ -1,6 +1,6 @@
 {
   "name": "is-raining",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Check if it's raining in any city (CLI)",
   "main": "index.js",
   "author": "Ricardo Matias <ricardo.matias0@gmail.com>",
