@@ -1,0 +1,37 @@
+{
+  "name": "is-raining",
+  "version": "0.0.1",
+  "description": "Check if it's raining in any city (CLI)",
+  "main": "index.js",
+  "author": "Ricardo Matias <ricardo.matias0@gmail.com>",
+  "engines": {
+    "node": ">=0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "is-raining": "index.js"
+  },
+  "keywords": [
+    "raining",
+    "rain",
+    "weather",
+    "temperature"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardomatias/is-raining"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardomatias/is-raining/issues"
+  },
+  "homepage": "https://github.com/ricardomatias/is-raining",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "cheerio": "^0.19.0",
+    "commander": "^2.7.1",
+    "superagent": "^1.1.0"
+  }
+}
